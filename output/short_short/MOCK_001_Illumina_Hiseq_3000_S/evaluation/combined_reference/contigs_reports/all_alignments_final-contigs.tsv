@@ -1,0 +1,155 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+CONTIG	k141_551	574	unaligned
+CONTIG	k141_406	516	unaligned
+CONTIG	k141_203	519	unaligned
+CONTIG	k141_349	508	unaligned
+CONTIG	k141_146	580	unaligned
+CONTIG	k141_117	581	unaligned
+CONTIG	k141_464	892	unaligned
+CONTIG	k141_494	501	unaligned
+CONTIG	k141_262	621	unaligned
+CONTIG	k141_59	527	unaligned
+CONTIG	k141_175	558	unaligned
+CONTIG	k141_291	524	unaligned
+CONTIG	k141_553	550	unaligned
+CONTIG	k141_118	534	unaligned
+CONTIG	k141_350	637	unaligned
+CONTIG	k141_380	500	unaligned
+CONTIG	k141_31	634	unaligned
+CONTIG	k141_323	507	unaligned
+CONTIG	k141_88	554	unaligned
+CONTIG	k141_465	543	unaligned
+CONTIG	k141_148	701	unaligned
+CONTIG	k141_524	1123	unaligned
+CONTIG	k141_61	520	unaligned
+CONTIG	k141_439	741	unaligned
+CONTIG	k141_383	635	unaligned
+CONTIG	k141_178	766	unaligned
+CONTIG	k141_440	500	unaligned
+CONTIG	k141_467	694	unaligned
+CONTIG	k141_119	1391	unaligned
+CONTIG	k141_263	1601	unaligned
+CONTIG	k141_63	553	unaligned
+CONTIG	k141_384	572	unaligned
+463	981	1	519	Methanocaldococcus_jannaschii_NC_001732.1	k141_295	99.81		True
+CONTIG	k141_295	519	correct
+CONTIG	k141_239	511	unaligned
+CONTIG	k141_36	500	unaligned
+440010	440625	616	1	Methanocaldococcus_jannaschii_NC_000909.1	k141_441	100.0		True
+CONTIG	k141_441	616	correct
+CONTIG	k141_468	520	unaligned
+CONTIG	k141_180	628	unaligned
+CONTIG	k141_412	809	unaligned
+CONTIG	k141_501	926	unaligned
+CONTIG	k141_469	601	unaligned
+CONTIG	k141_210	586	unaligned
+CONTIG	k141_181	557	unaligned
+CONTIG	k141_123	640	unaligned
+CONTIG	k141_330	827	unaligned
+CONTIG	k141_242	551	unaligned
+CONTIG	k141_39	510	unaligned
+CONTIG	k141_530	716	unaligned
+CONTIG	k141_67	625	unaligned
+CONTIG	k141_561	987	unaligned
+CONTIG	k141_470	751	unaligned
+1262219	1262960	1	742	Methanocaldococcus_jannaschii_NC_000909.1	k141_211	100.0		True
+CONTIG	k141_211	742	correct
+CONTIG	k141_184	502	unaligned
+CONTIG	k141_125	627	unaligned
+CONTIG	k141_301	604	unaligned
+CONTIG	k141_69	536	unaligned
+CONTIG	k141_158	681	unaligned
+CONTIG	k141_16	508	unaligned
+CONTIG	k141_413	1758	unaligned
+330849	331430	1	582	Methanocaldococcus_jannaschii_NC_000909.1	k141_70	100.0		True
+CONTIG	k141_70	582	correct
+CONTIG	k141_363	509	unaligned
+CONTIG	k141_566	636	unaligned
+CONTIG	k141_98	1196	unaligned
+CONTIG	k141_214	529	unaligned
+CONTIG	k141_393	1052	unaligned
+CONTIG	k141_187	615	unaligned
+157705	157824	120	1	Methanocaldococcus_jannaschii_NC_000909.1	k141_414	99.17		False
+157783	158248	105	570	Methanocaldococcus_jannaschii_NC_000909.1	k141_414	91.2		False
+640090	640193	1	104	Methanocaldococcus_jannaschii_NC_000909.1	k141_414	99.17		True
+inversion
+639665	640131	570	105	Methanocaldococcus_jannaschii_NC_000909.1	k141_414	91.22		True
+CONTIG	k141_414	570	misassembled
+CONTIG	k141_305	545	unaligned
+CONTIG	k141_338	614	unaligned
+1365304	1365928	1	625	Methanocaldococcus_jannaschii_NC_000909.1	k141_249	100.0		True
+CONTIG	k141_249	625	correct
+CONTIG	k141_567	578	unaligned
+CONTIG	k141_162	585	unaligned
+CONTIG	k141_189	514	unaligned
+CONTIG	k141_339	593	unaligned
+CONTIG	k141_215	706	unaligned
+CONTIG	k141_534	2078	unaligned
+CONTIG	k141_454	628	unaligned
+CONTIG	k141_367	703	unaligned
+CONTIG	k141_76	588	unaligned
+CONTIG	k141_164	590	unaligned
+CONTIG	k141_569	578	unaligned
+CONTIG	k141_251	606	unaligned
+973925	974549	1	625	Methanocaldococcus_jannaschii_NC_000909.1	k141_133	100.0		True
+CONTIG	k141_133	625	correct
+CONTIG	k141_340	772	unaligned
+CONTIG	k141_535	594	unaligned
+CONTIG	k141_165	553	unaligned
+CONTIG	k141_455	665	unaligned
+CONTIG	k141_418	568	unaligned
+CONTIG	k141_51	619	unaligned
+CONTIG	k141_217	742	unaligned
+CONTIG	k141_341	638	unaligned
+236073	236583	1	511	Methanocaldococcus_jannaschii_NC_000909.1	k141_536	100.0		True
+CONTIG	k141_536	511	correct
+CONTIG	k141_480	585	unaligned
+CONTIG	k141_456	646	unaligned
+CONTIG	k141_77	1304	unaligned
+CONTIG	k141_194	572	unaligned
+CONTIG	k141_52	834	unaligned
+417624	418267	1	644	Methanocaldococcus_jannaschii_NC_000909.1	k141_371	99.84		True
+CONTIG	k141_371	644	correct
+CONTIG	k141_167	657	unaligned
+CONTIG	k141_343	621	unaligned
+CONTIG	k141_517	515	unaligned
+CONTIG	k141_574	576	unaligned
+CONTIG	k141_458	521	unaligned
+608759	609340	582	1	Methanocaldococcus_jannaschii_NC_000909.1	k141_257	99.83		True
+CONTIG	k141_257	582	correct
+CONTIG	k141_138	607	unaligned
+CONTIG	k141_284	521	unaligned
+CONTIG	k141_344	621	unaligned
+CONTIG	k141_422	556	unaligned
+CONTIG	k141_575	501	unaligned
+CONTIG	k141_483	718	unaligned
+CONTIG	k141_169	556	unaligned
+CONTIG	k141_80	586	unaligned
+CONTIG	k141_315	565	unaligned
+CONTIG	k141_538	1398	unaligned
+CONTIG	k141_258	624	unaligned
+115664	116205	1	542	Methanocaldococcus_jannaschii_NC_000909.1	k141_109	98.71		True
+CONTIG	k141_109	542	correct
+CONTIG	k141_170	623	unaligned
+CONTIG	k141_285	609	unaligned
+CONTIG	k141_521	502	unaligned
+CONTIG	k141_376	675	unaligned
+1026934	1027672	744	6	Chlorobium_limicola_DSM_245_NC_010803.1	k141_539	97.29		False
+2048536	2049274	744	6	Chlorobium_limicola_DSM_245_NC_010803.1	k141_539	97.29		False
+2319562	2320301	6	744	Chlorobium_limicola_DSM_245_NC_010803.1	k141_539	97.03		False
+127799	128538	6	745	Chlorobium_limicola_DSM_245_NC_010803.1	k141_539	97.3		False
+788989	789728	745	6	Chlorobium_limicola_DSM_245_NC_010803.1	k141_539	97.3		True
+CONTIG	k141_539	778	correct
+CONTIG	k141_316	850	unaligned
+1416885	1417494	593	1	Methanocaldococcus_jannaschii_NC_000909.1	k141_110	97.21		True
+CONTIG	k141_110	593	correct
+CONTIG	k141_260	600	unaligned
+CONTIG	k141_142	973	unaligned
+CONTIG	k141_201	819	unaligned
+CONTIG	k141_85	568	unaligned
+CONTIG	k141_225	594	unaligned
+CONTIG	k141_143	526	unaligned
+CONTIG	k141_173	1162	unaligned
+CONTIG	k141_487	830	unaligned
+CONTIG	k141_544	802	unaligned
+CONTIG	k141_230	568	unaligned

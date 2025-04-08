@@ -1,0 +1,104 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Methanocaldococcus_jannaschii_NC_000909.1]
+	Loaded [Methanocaldococcus_jannaschii_NC_001732.1]
+	Loaded [Methanocaldococcus_jannaschii_NC_001733.1]
+	Total Regions: 3
+	Total Region Length: 1739927
+Analyzing contigs...
+CONTIG: k141_295 (519bp)
+Best alignment score: 518.0 (LEN: 519, IDY: 99.81), Total number of alignments: 1
+		One align captures most of this contig: 463 981 | 1 519 | 519 519 | 99.81 | Methanocaldococcus_jannaschii_NC_001732.1 k141_295
+
+CONTIG: k141_441 (616bp)
+Best alignment score: 616.0 (LEN: 616, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 440010 440625 | 616 1 | 616 616 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_441
+
+CONTIG: k141_211 (742bp)
+Best alignment score: 742.0 (LEN: 742, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1262219 1262960 | 1 742 | 742 742 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_211
+
+CONTIG: k141_70 (582bp)
+Best alignment score: 582.0 (LEN: 582, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 330849 331430 | 1 582 | 582 582 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_70
+
+CONTIG: k141_414 (570bp)
+Best alignment score: 425.1 (LEN: 466, IDY: 91.22), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 157705 157824 | 120 1 | 120 120 | 99.17 | Methanocaldococcus_jannaschii_NC_000909.1 k141_414
+		Skipping redundant alignment 157783 158248 | 105 570 | 466 466 | 91.2 | Methanocaldococcus_jannaschii_NC_000909.1 k141_414
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 471.2, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 16 between Alignment 1 and 2: 640090 640209 | 1 120 | 120 120 --> 640090 640193 | 1 104 | 104 104
+			Real Alignment 1: 640090 640193 | 1 104 | 104 104 | 99.17 | Methanocaldococcus_jannaschii_NC_000909.1 k141_414
+			  Extensive misassembly (inversion) between these two alignments
+			Real Alignment 2: 639665 640131 | 570 105 | 467 466 | 91.22 | Methanocaldococcus_jannaschii_NC_000909.1 k141_414
+
+CONTIG: k141_249 (625bp)
+Best alignment score: 625.0 (LEN: 625, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1365304 1365928 | 1 625 | 625 625 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_249
+
+CONTIG: k141_133 (625bp)
+Best alignment score: 625.0 (LEN: 625, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 973925 974549 | 1 625 | 625 625 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_133
+
+CONTIG: k141_536 (511bp)
+Best alignment score: 511.0 (LEN: 511, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 236073 236583 | 1 511 | 511 511 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_536
+
+CONTIG: k141_371 (644bp)
+Best alignment score: 643.0 (LEN: 644, IDY: 99.84), Total number of alignments: 1
+		One align captures most of this contig: 417624 418267 | 1 644 | 644 644 | 99.84 | Methanocaldococcus_jannaschii_NC_000909.1 k141_371
+
+CONTIG: k141_257 (582bp)
+Best alignment score: 581.0 (LEN: 582, IDY: 99.83), Total number of alignments: 1
+		One align captures most of this contig: 608759 609340 | 582 1 | 582 582 | 99.83 | Methanocaldococcus_jannaschii_NC_000909.1 k141_257
+
+CONTIG: k141_109 (542bp)
+Best alignment score: 535.0 (LEN: 542, IDY: 98.71), Total number of alignments: 1
+		One align captures most of this contig: 115664 116205 | 1 542 | 542 542 | 98.71 | Methanocaldococcus_jannaschii_NC_000909.1 k141_109
+
+CONTIG: k141_110 (593bp)
+Best alignment score: 576.5 (LEN: 593, IDY: 97.21), Total number of alignments: 1
+		One align captures most of this contig: 1416885 1417494 | 593 1 | 610 593 | 97.21 | Methanocaldococcus_jannaschii_NC_000909.1 k141_110
+
+Analyzing coverage...
+Writing SNPs into /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/runs_per_reference/Methanocaldococcus_jannaschii/contigs_reports/minimap_output/final-contigs.used_snps
+
+Analysis is finished!
+Founded SNPs were written into /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/runs_per_reference/Methanocaldococcus_jannaschii/contigs_reports/minimap_output/final-contigs.used_snps
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 1
+		Relocations: 0
+		Translocations: 0
+		Inversions: 1
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 1
+	Misassembled Contig Bases: 570
+	Misassemblies Inter-Contig Overlap ("Extra" Aligned Bases): 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Bases in Fully and Partially Unaligned Contigs: 0
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 570
+"Extra" Aligned Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used (there is no "extra" aligned bases).
+
+	Covered Bases in Reference: 7127
+	Raw Aligned Bases in Assembly: 7151
+	Total Aligned Bases in Assembly (with "Extras"): 7151
+
+	SNPs: 44
+	Insertions: 7
+	Deletions: 25
+

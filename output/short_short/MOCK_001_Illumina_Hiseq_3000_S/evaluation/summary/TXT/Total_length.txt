@@ -1,0 +1,4 @@
+Assemblies                     final.contigs
+Chlorobium_limicola_DSM_245    778          
+Methanocaldococcus_jannaschii  7151         
+not_aligned                    81997        

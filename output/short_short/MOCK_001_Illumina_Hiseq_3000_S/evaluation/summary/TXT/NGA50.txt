@@ -1,0 +1,3 @@
+Assemblies                     final.contigs
+Chlorobium_limicola_DSM_245    -            
+Methanocaldococcus_jannaschii  -            

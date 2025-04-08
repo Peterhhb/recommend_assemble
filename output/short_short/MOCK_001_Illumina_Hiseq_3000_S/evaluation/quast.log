@@ -1,0 +1,63 @@
+/home/peter/miniconda3/envs/plasme/lib/python3.9/site-packages/quast-5.3.0-py3.9.egg/EGG-INFO/scripts/quast.py /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/megahit/final.contigs.fa -o /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation
+
+Version: 5.3.0, fb88221c
+
+System information:
+  OS: Linux-6.8.0-49-generic-x86_64-with-glibc2.35 (linux_64)
+  Python version: 3.9.18
+  CPUs number: 20
+
+Started: 2025-04-08 13:31:36
+
+Logging to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+NOTICE: Maximum number of threads is set to 5 (use --threads option to set it manually)
+
+CWD: /home/peter/PycharmProjects/pythonProject/recommend_assemble/scripts
+Main parameters: 
+  MODE: default, threads: 5, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/megahit/final.contigs.fa ==> final.contigs
+
+2025-04-08 13:31:36
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 624, L50 = 53, auN = 765.5, Total length = 89926, GC % = 42.11, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2025-04-08 13:31:37
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2025-04-08 13:31:37
+RESULTS:
+  Text versions of total report are saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/report.html
+  PDF version (tables and plots) is saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/report.pdf
+  Icarus (contig browser) is saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/icarus.html
+  Log is saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/quast.log
+
+Finished: 2025-04-08 13:31:37
+Elapsed time: 0:00:00.721228
+NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

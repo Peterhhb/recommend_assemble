@@ -1,0 +1,110 @@
+/home/peter/miniconda3/envs/plasme/lib/python3.9/site-packages/quast-5.3.0-py3.9.egg/EGG-INFO/scripts/metaquast.py /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/megahit/final.contigs.fa -o /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation
+
+Version: 5.3.0, fb88221c
+
+System information:
+  OS: Linux-6.8.0-49-generic-x86_64-with-glibc2.35 (linux_64)
+  Python version: 3.9.18
+  CPUs number: 20
+
+Started: 2025-04-08 12:46:01
+
+Logging to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/metaquast.log
+NOTICE: Maximum number of threads is set to 5 (use --threads option to set it manually)
+
+Contigs:
+  Pre-processing...
+  /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/megahit/final.contigs.fa ==> final.contigs
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2025-04-08 12:46:01
+Running BlastN..
+  processing final.contigs
+/home/peter/miniconda3/envs/plasme/bin/blastn -query /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/megahit/final.contigs.fa \
+-db /home/peter/miniconda3/envs/plasme/lib/python3.9/site-packages/quast-5.3.0-py3.9.egg/quast_libs/silva/silva.138.1.db \
+-outfmt 7 -num_threads 5 > /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/quast_downloaded_references/blast.res_final-contigs \
+2>> /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/quast_downloaded_references/blast.err
+  BLAST results for final.contigs are saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/quast_downloaded_references/blast.res_final-contigs...
+
+
+2025-04-08 12:46:05
+Trying to download found references from NCBI. Totally 2 organisms to try.
+  Methanocaldococcus_jannaschii | successfully downloaded (total 1, 1 more to go)
+  Chlorobium_limicola_DSM_245   | successfully downloaded (total 2, 0 more to go)
+
+Downloaded reference(s):
+  /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/quast_downloaded_references/Chlorobium_limicola_DSM_245.fasta ==> Chlorobium_limicola_DSM_245
+  /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/quast_downloaded_references/Methanocaldococcus_jannaschii.fasta ==> Methanocaldococcus_jannaschii
+  All references were combined in combined_reference.fasta
+
+Starting quast.py for the combined reference...
+(logging to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/combined_reference/quast.log)
+
+Excluding downloaded references with low genome fraction from further analysis..
+All downloaded references have low genome fraction. Nothing was excluded for now.
+
+Partitioning contigs into bins aligned to each reference..
+  processing final.contigs
+
+Run QUAST on different references in parallel..
+
+Starting quast.py for the contigs aligned to Chlorobium_limicola_DSM_245... (logging to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/runs_per_reference/Chlorobium_limicola_DSM_245/quast.log)
+
+Starting quast.py for the contigs aligned to Methanocaldococcus_jannaschii... (logging to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/runs_per_reference/Methanocaldococcus_jannaschii/quast.log)
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned/quast.log)
+
+2025-04-08 12:51:54
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/num_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/Total_length_(ge_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/Total_length_(ge_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/Total_length_(ge_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/num_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for final.contigs...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/final-contigs_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/num_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/num_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/num_Ns_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/Genome_fraction.pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/Duplication_ratio.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/PDF/LGA50.pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/summary/
+  Icarus (contig browser) is saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/icarus.html
+  Drawing interactive Krona plots...
+  Krona chart for final.contigs is saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/krona_charts/final.contigs_taxonomy_chart.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/report.html
+
+MetaQUAST finished.
+  Log is saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/metaquast.log
+
+Finished: 2025-04-08 12:51:55
+Elapsed time: 0:05:54.207100
+Total NOTICEs: 7; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

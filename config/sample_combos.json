@@ -1,0 +1,39 @@
+{
+    "short_short": [
+        {
+            "sample_name": "MOCK_001_Illumina_Hiseq_3000_S",
+            "reads": {
+                "read1": "/home/peter/PycharmProjects/pythonProject/recommend_assemble/data/short/MOCK_001_Illumina_Hiseq_3000_S_R1.mini.fastq.gz",
+                "read2": "/home/peter/PycharmProjects/pythonProject/recommend_assemble/data/short/MOCK_001_Illumina_Hiseq_3000_S_R2.mini.fastq.gz"
+            }
+        }
+    ],
+    "short_long": [
+        {
+            "sample_name": "MOCK_001_Illumina_Hiseq_3000_S+MOCK_001_PacBio_Sequel_II_L.mini.fastq",
+            "reads": {
+                "read1": "/home/peter/PycharmProjects/pythonProject/recommend_assemble/data/short/MOCK_001_Illumina_Hiseq_3000_S_R1.mini.fastq.gz",
+                "read2": "/home/peter/PycharmProjects/pythonProject/recommend_assemble/data/short/MOCK_001_Illumina_Hiseq_3000_S_R2.mini.fastq.gz"
+            },
+            "long_read": "/home/peter/PycharmProjects/pythonProject/recommend_assemble/data/long/MOCK_001_PacBio_Sequel_II_L.mini.fastq.gz"
+        },
+        {
+            "sample_name": "MOCK_001_Illumina_Hiseq_3000_S+MOCK_001_Minion_L_R9.mini.fastq",
+            "reads": {
+                "read1": "/home/peter/PycharmProjects/pythonProject/recommend_assemble/data/short/MOCK_001_Illumina_Hiseq_3000_S_R1.mini.fastq.gz",
+                "read2": "/home/peter/PycharmProjects/pythonProject/recommend_assemble/data/short/MOCK_001_Illumina_Hiseq_3000_S_R2.mini.fastq.gz"
+            },
+            "long_read": "/home/peter/PycharmProjects/pythonProject/recommend_assemble/data/long/MOCK_001_Minion_L_R9.mini.fastq.gz"
+        }
+    ],
+    "long_long": [
+        {
+            "sample_name": "MOCK_001_PacBio_Sequel_II_L.mini.fastq",
+            "long_read": "/home/peter/PycharmProjects/pythonProject/recommend_assemble/data/long/MOCK_001_PacBio_Sequel_II_L.mini.fastq.gz"
+        },
+        {
+            "sample_name": "MOCK_001_Minion_L_R9.mini.fastq",
+            "long_read": "/home/peter/PycharmProjects/pythonProject/recommend_assemble/data/long/MOCK_001_Minion_L_R9.mini.fastq.gz"
+        }
+    ]
+}

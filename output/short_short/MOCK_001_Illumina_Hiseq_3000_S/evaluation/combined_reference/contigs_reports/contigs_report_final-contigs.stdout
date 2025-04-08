@@ -1,0 +1,619 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Chlorobium_limicola_DSM_245_NC_010803.1]
+	Loaded [Methanocaldococcus_jannaschii_NC_000909.1]
+	Loaded [Methanocaldococcus_jannaschii_NC_001732.1]
+	Loaded [Methanocaldococcus_jannaschii_NC_001733.1]
+	Total Regions: 4
+	Total Region Length: 4503108
+Analyzing contigs...
+CONTIG: k141_551 (574bp)
+		This contig is unaligned. (574 bp)
+		Unaligned bases: 574 (number of Ns: 0)
+
+CONTIG: k141_406 (516bp)
+		This contig is unaligned. (516 bp)
+		Unaligned bases: 516 (number of Ns: 0)
+
+CONTIG: k141_203 (519bp)
+		This contig is unaligned. (519 bp)
+		Unaligned bases: 519 (number of Ns: 0)
+
+CONTIG: k141_349 (508bp)
+		This contig is unaligned. (508 bp)
+		Unaligned bases: 508 (number of Ns: 0)
+
+CONTIG: k141_146 (580bp)
+		This contig is unaligned. (580 bp)
+		Unaligned bases: 580 (number of Ns: 0)
+
+CONTIG: k141_117 (581bp)
+		This contig is unaligned. (581 bp)
+		Unaligned bases: 581 (number of Ns: 0)
+
+CONTIG: k141_464 (892bp)
+		This contig is unaligned. (892 bp)
+		Unaligned bases: 892 (number of Ns: 0)
+
+CONTIG: k141_494 (501bp)
+		This contig is unaligned. (501 bp)
+		Unaligned bases: 501 (number of Ns: 0)
+
+CONTIG: k141_262 (621bp)
+		This contig is unaligned. (621 bp)
+		Unaligned bases: 621 (number of Ns: 0)
+
+CONTIG: k141_59 (527bp)
+		This contig is unaligned. (527 bp)
+		Unaligned bases: 527 (number of Ns: 0)
+
+CONTIG: k141_175 (558bp)
+		This contig is unaligned. (558 bp)
+		Unaligned bases: 558 (number of Ns: 0)
+
+CONTIG: k141_291 (524bp)
+		This contig is unaligned. (524 bp)
+		Unaligned bases: 524 (number of Ns: 0)
+
+CONTIG: k141_553 (550bp)
+		This contig is unaligned. (550 bp)
+		Unaligned bases: 550 (number of Ns: 0)
+
+CONTIG: k141_118 (534bp)
+		This contig is unaligned. (534 bp)
+		Unaligned bases: 534 (number of Ns: 0)
+
+CONTIG: k141_350 (637bp)
+		This contig is unaligned. (637 bp)
+		Unaligned bases: 637 (number of Ns: 0)
+
+CONTIG: k141_380 (500bp)
+		This contig is unaligned. (500 bp)
+		Unaligned bases: 500 (number of Ns: 0)
+
+CONTIG: k141_31 (634bp)
+		This contig is unaligned. (634 bp)
+		Unaligned bases: 634 (number of Ns: 0)
+
+CONTIG: k141_323 (507bp)
+		This contig is unaligned. (507 bp)
+		Unaligned bases: 507 (number of Ns: 0)
+
+CONTIG: k141_88 (554bp)
+		This contig is unaligned. (554 bp)
+		Unaligned bases: 554 (number of Ns: 0)
+
+CONTIG: k141_465 (543bp)
+		This contig is unaligned. (543 bp)
+		Unaligned bases: 543 (number of Ns: 0)
+
+CONTIG: k141_148 (701bp)
+		This contig is unaligned. (701 bp)
+		Unaligned bases: 701 (number of Ns: 0)
+
+CONTIG: k141_524 (1123bp)
+		This contig is unaligned. (1123 bp)
+		Unaligned bases: 1123 (number of Ns: 0)
+
+CONTIG: k141_61 (520bp)
+		This contig is unaligned. (520 bp)
+		Unaligned bases: 520 (number of Ns: 0)
+
+CONTIG: k141_439 (741bp)
+		This contig is unaligned. (741 bp)
+		Unaligned bases: 741 (number of Ns: 0)
+
+CONTIG: k141_383 (635bp)
+		This contig is unaligned. (635 bp)
+		Unaligned bases: 635 (number of Ns: 0)
+
+CONTIG: k141_178 (766bp)
+		This contig is unaligned. (766 bp)
+		Unaligned bases: 766 (number of Ns: 0)
+
+CONTIG: k141_440 (500bp)
+		This contig is unaligned. (500 bp)
+		Unaligned bases: 500 (number of Ns: 0)
+
+CONTIG: k141_467 (694bp)
+		This contig is unaligned. (694 bp)
+		Unaligned bases: 694 (number of Ns: 0)
+
+CONTIG: k141_119 (1391bp)
+		This contig is unaligned. (1391 bp)
+		Unaligned bases: 1391 (number of Ns: 0)
+
+CONTIG: k141_263 (1601bp)
+		This contig is unaligned. (1601 bp)
+		Unaligned bases: 1601 (number of Ns: 0)
+
+CONTIG: k141_63 (553bp)
+		This contig is unaligned. (553 bp)
+		Unaligned bases: 553 (number of Ns: 0)
+
+CONTIG: k141_384 (572bp)
+		This contig is unaligned. (572 bp)
+		Unaligned bases: 572 (number of Ns: 0)
+
+CONTIG: k141_295 (519bp)
+Best alignment score: 518.0 (LEN: 519, IDY: 99.81), Total number of alignments: 1
+		One align captures most of this contig: 463 981 | 1 519 | 519 519 | 99.81 | Methanocaldococcus_jannaschii_NC_001732.1 k141_295
+
+CONTIG: k141_239 (511bp)
+		This contig is unaligned. (511 bp)
+		Unaligned bases: 511 (number of Ns: 0)
+
+CONTIG: k141_36 (500bp)
+		This contig is unaligned. (500 bp)
+		Unaligned bases: 500 (number of Ns: 0)
+
+CONTIG: k141_441 (616bp)
+Best alignment score: 616.0 (LEN: 616, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 440010 440625 | 616 1 | 616 616 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_441
+
+CONTIG: k141_468 (520bp)
+		This contig is unaligned. (520 bp)
+		Unaligned bases: 520 (number of Ns: 0)
+
+CONTIG: k141_180 (628bp)
+		This contig is unaligned. (628 bp)
+		Unaligned bases: 628 (number of Ns: 0)
+
+CONTIG: k141_412 (809bp)
+		This contig is unaligned. (809 bp)
+		Unaligned bases: 809 (number of Ns: 0)
+
+CONTIG: k141_501 (926bp)
+		This contig is unaligned. (926 bp)
+		Unaligned bases: 926 (number of Ns: 0)
+
+CONTIG: k141_469 (601bp)
+		This contig is unaligned. (601 bp)
+		Unaligned bases: 601 (number of Ns: 0)
+
+CONTIG: k141_210 (586bp)
+		This contig is unaligned. (586 bp)
+		Unaligned bases: 586 (number of Ns: 0)
+
+CONTIG: k141_181 (557bp)
+		This contig is unaligned. (557 bp)
+		Unaligned bases: 557 (number of Ns: 0)
+
+CONTIG: k141_123 (640bp)
+		This contig is unaligned. (640 bp)
+		Unaligned bases: 640 (number of Ns: 0)
+
+CONTIG: k141_330 (827bp)
+		This contig is unaligned. (827 bp)
+		Unaligned bases: 827 (number of Ns: 0)
+
+CONTIG: k141_242 (551bp)
+		This contig is unaligned. (551 bp)
+		Unaligned bases: 551 (number of Ns: 0)
+
+CONTIG: k141_39 (510bp)
+		This contig is unaligned. (510 bp)
+		Unaligned bases: 510 (number of Ns: 0)
+
+CONTIG: k141_530 (716bp)
+		This contig is unaligned. (716 bp)
+		Unaligned bases: 716 (number of Ns: 0)
+
+CONTIG: k141_67 (625bp)
+		This contig is unaligned. (625 bp)
+		Unaligned bases: 625 (number of Ns: 0)
+
+CONTIG: k141_561 (987bp)
+		This contig is unaligned. (987 bp)
+		Unaligned bases: 987 (number of Ns: 0)
+
+CONTIG: k141_470 (751bp)
+		This contig is unaligned. (751 bp)
+		Unaligned bases: 751 (number of Ns: 0)
+
+CONTIG: k141_211 (742bp)
+Best alignment score: 742.0 (LEN: 742, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1262219 1262960 | 1 742 | 742 742 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_211
+
+CONTIG: k141_184 (502bp)
+		This contig is unaligned. (502 bp)
+		Unaligned bases: 502 (number of Ns: 0)
+
+CONTIG: k141_125 (627bp)
+		This contig is unaligned. (627 bp)
+		Unaligned bases: 627 (number of Ns: 0)
+
+CONTIG: k141_301 (604bp)
+		This contig is unaligned. (604 bp)
+		Unaligned bases: 604 (number of Ns: 0)
+
+CONTIG: k141_69 (536bp)
+		This contig is unaligned. (536 bp)
+		Unaligned bases: 536 (number of Ns: 0)
+
+CONTIG: k141_158 (681bp)
+		This contig is unaligned. (681 bp)
+		Unaligned bases: 681 (number of Ns: 0)
+
+CONTIG: k141_16 (508bp)
+		This contig is unaligned. (508 bp)
+		Unaligned bases: 508 (number of Ns: 0)
+
+CONTIG: k141_413 (1758bp)
+		This contig is unaligned. (1758 bp)
+		Unaligned bases: 1758 (number of Ns: 0)
+
+CONTIG: k141_70 (582bp)
+Best alignment score: 582.0 (LEN: 582, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 330849 331430 | 1 582 | 582 582 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_70
+
+CONTIG: k141_363 (509bp)
+		This contig is unaligned. (509 bp)
+		Unaligned bases: 509 (number of Ns: 0)
+
+CONTIG: k141_566 (636bp)
+		This contig is unaligned. (636 bp)
+		Unaligned bases: 636 (number of Ns: 0)
+
+CONTIG: k141_98 (1196bp)
+		This contig is unaligned. (1196 bp)
+		Unaligned bases: 1196 (number of Ns: 0)
+
+CONTIG: k141_214 (529bp)
+		This contig is unaligned. (529 bp)
+		Unaligned bases: 529 (number of Ns: 0)
+
+CONTIG: k141_393 (1052bp)
+		This contig is unaligned. (1052 bp)
+		Unaligned bases: 1052 (number of Ns: 0)
+
+CONTIG: k141_187 (615bp)
+		This contig is unaligned. (615 bp)
+		Unaligned bases: 615 (number of Ns: 0)
+
+CONTIG: k141_414 (570bp)
+Best alignment score: 425.1 (LEN: 466, IDY: 91.22), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 471.1, number of alignments: 2, unaligned bases: 0
+				Group #3. Score: 469.9, number of alignments: 2, unaligned bases: 0
+				Group #4. Score: 469.8, number of alignments: 2, unaligned bases: 0
+			List of alignments used in the sets above but not in the best set (if any):
+		Alignment: 157705 157824 | 120 1 | 120 120 | 99.17 | Methanocaldococcus_jannaschii_NC_000909.1 k141_414
+		Alignment: 157783 158248 | 105 570 | 466 466 | 91.2 | Methanocaldococcus_jannaschii_NC_000909.1 k141_414
+			The best set is below. Score: 471.2, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 16 between Alignment 1 and 2: 640090 640209 | 1 120 | 120 120 --> 640090 640193 | 1 104 | 104 104
+			Real Alignment 1: 640090 640193 | 1 104 | 104 104 | 99.17 | Methanocaldococcus_jannaschii_NC_000909.1 k141_414
+			  Extensive misassembly (inversion) between these two alignments
+			Real Alignment 2: 639665 640131 | 570 105 | 467 466 | 91.22 | Methanocaldococcus_jannaschii_NC_000909.1 k141_414
+
+CONTIG: k141_305 (545bp)
+		This contig is unaligned. (545 bp)
+		Unaligned bases: 545 (number of Ns: 0)
+
+CONTIG: k141_338 (614bp)
+		This contig is unaligned. (614 bp)
+		Unaligned bases: 614 (number of Ns: 0)
+
+CONTIG: k141_249 (625bp)
+Best alignment score: 625.0 (LEN: 625, IDY: 100.00), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1364245 1364331 | 328 414 | 87 87 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_249
+		One align captures most of this contig: 1365304 1365928 | 1 625 | 625 625 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_249
+
+CONTIG: k141_567 (578bp)
+		This contig is unaligned. (578 bp)
+		Unaligned bases: 578 (number of Ns: 0)
+
+CONTIG: k141_162 (585bp)
+		This contig is unaligned. (585 bp)
+		Unaligned bases: 585 (number of Ns: 0)
+
+CONTIG: k141_189 (514bp)
+		This contig is unaligned. (514 bp)
+		Unaligned bases: 514 (number of Ns: 0)
+
+CONTIG: k141_339 (593bp)
+		This contig is unaligned. (593 bp)
+		Unaligned bases: 593 (number of Ns: 0)
+
+CONTIG: k141_215 (706bp)
+		This contig is unaligned. (706 bp)
+		Unaligned bases: 706 (number of Ns: 0)
+
+CONTIG: k141_534 (2078bp)
+		This contig is unaligned. (2078 bp)
+		Unaligned bases: 2078 (number of Ns: 0)
+
+CONTIG: k141_454 (628bp)
+		This contig is unaligned. (628 bp)
+		Unaligned bases: 628 (number of Ns: 0)
+
+CONTIG: k141_367 (703bp)
+		This contig is unaligned. (703 bp)
+		Unaligned bases: 703 (number of Ns: 0)
+
+CONTIG: k141_76 (588bp)
+		This contig is unaligned. (588 bp)
+		Unaligned bases: 588 (number of Ns: 0)
+
+CONTIG: k141_164 (590bp)
+		This contig is unaligned. (590 bp)
+		Unaligned bases: 590 (number of Ns: 0)
+
+CONTIG: k141_569 (578bp)
+		This contig is unaligned. (578 bp)
+		Unaligned bases: 578 (number of Ns: 0)
+
+CONTIG: k141_251 (606bp)
+		This contig is unaligned. (606 bp)
+		Unaligned bases: 606 (number of Ns: 0)
+
+CONTIG: k141_133 (625bp)
+Best alignment score: 625.0 (LEN: 625, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 973925 974549 | 1 625 | 625 625 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_133
+
+CONTIG: k141_340 (772bp)
+		This contig is unaligned. (772 bp)
+		Unaligned bases: 772 (number of Ns: 0)
+
+CONTIG: k141_535 (594bp)
+		This contig is unaligned. (594 bp)
+		Unaligned bases: 594 (number of Ns: 0)
+
+CONTIG: k141_165 (553bp)
+		This contig is unaligned. (553 bp)
+		Unaligned bases: 553 (number of Ns: 0)
+
+CONTIG: k141_455 (665bp)
+		This contig is unaligned. (665 bp)
+		Unaligned bases: 665 (number of Ns: 0)
+
+CONTIG: k141_418 (568bp)
+		This contig is unaligned. (568 bp)
+		Unaligned bases: 568 (number of Ns: 0)
+
+CONTIG: k141_51 (619bp)
+		This contig is unaligned. (619 bp)
+		Unaligned bases: 619 (number of Ns: 0)
+
+CONTIG: k141_217 (742bp)
+		This contig is unaligned. (742 bp)
+		Unaligned bases: 742 (number of Ns: 0)
+
+CONTIG: k141_341 (638bp)
+		This contig is unaligned. (638 bp)
+		Unaligned bases: 638 (number of Ns: 0)
+
+CONTIG: k141_536 (511bp)
+Best alignment score: 511.0 (LEN: 511, IDY: 100.00), Total number of alignments: 5
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 624290 624540 | 454 205 | 251 250 | 90.91 | Methanocaldococcus_jannaschii_NC_000909.1 k141_536
+			Skipping alignment 858437 858631 | 399 205 | 195 195 | 90.77 | Methanocaldococcus_jannaschii_NC_000909.1 k141_536
+			Skipping alignment 506977 507171 | 205 399 | 195 195 | 90.77 | Methanocaldococcus_jannaschii_NC_000909.1 k141_536
+			Skipping alignment 501204 501398 | 205 399 | 195 195 | 90.36 | Methanocaldococcus_jannaschii_NC_000909.1 k141_536
+		One align captures most of this contig: 236073 236583 | 1 511 | 511 511 | 100.0 | Methanocaldococcus_jannaschii_NC_000909.1 k141_536
+
+CONTIG: k141_480 (585bp)
+		This contig is unaligned. (585 bp)
+		Unaligned bases: 585 (number of Ns: 0)
+
+CONTIG: k141_456 (646bp)
+		This contig is unaligned. (646 bp)
+		Unaligned bases: 646 (number of Ns: 0)
+
+CONTIG: k141_77 (1304bp)
+		This contig is unaligned. (1304 bp)
+		Unaligned bases: 1304 (number of Ns: 0)
+
+CONTIG: k141_194 (572bp)
+		This contig is unaligned. (572 bp)
+		Unaligned bases: 572 (number of Ns: 0)
+
+CONTIG: k141_52 (834bp)
+		This contig is unaligned. (834 bp)
+		Unaligned bases: 834 (number of Ns: 0)
+
+CONTIG: k141_371 (644bp)
+Best alignment score: 643.0 (LEN: 644, IDY: 99.84), Total number of alignments: 1
+		One align captures most of this contig: 417624 418267 | 1 644 | 644 644 | 99.84 | Methanocaldococcus_jannaschii_NC_000909.1 k141_371
+
+CONTIG: k141_167 (657bp)
+		This contig is unaligned. (657 bp)
+		Unaligned bases: 657 (number of Ns: 0)
+
+CONTIG: k141_343 (621bp)
+		This contig is unaligned. (621 bp)
+		Unaligned bases: 621 (number of Ns: 0)
+
+CONTIG: k141_517 (515bp)
+		This contig is unaligned. (515 bp)
+		Unaligned bases: 515 (number of Ns: 0)
+
+CONTIG: k141_574 (576bp)
+		This contig is unaligned. (576 bp)
+		Unaligned bases: 576 (number of Ns: 0)
+
+CONTIG: k141_458 (521bp)
+		This contig is unaligned. (521 bp)
+		Unaligned bases: 521 (number of Ns: 0)
+
+CONTIG: k141_257 (582bp)
+Best alignment score: 581.0 (LEN: 582, IDY: 99.83), Total number of alignments: 1
+		One align captures most of this contig: 608759 609340 | 582 1 | 582 582 | 99.83 | Methanocaldococcus_jannaschii_NC_000909.1 k141_257
+
+CONTIG: k141_138 (607bp)
+		This contig is unaligned. (607 bp)
+		Unaligned bases: 607 (number of Ns: 0)
+
+CONTIG: k141_284 (521bp)
+		This contig is unaligned. (521 bp)
+		Unaligned bases: 521 (number of Ns: 0)
+
+CONTIG: k141_344 (621bp)
+		This contig is unaligned. (621 bp)
+		Unaligned bases: 621 (number of Ns: 0)
+
+CONTIG: k141_422 (556bp)
+		This contig is unaligned. (556 bp)
+		Unaligned bases: 556 (number of Ns: 0)
+
+CONTIG: k141_575 (501bp)
+		This contig is unaligned. (501 bp)
+		Unaligned bases: 501 (number of Ns: 0)
+
+CONTIG: k141_483 (718bp)
+		This contig is unaligned. (718 bp)
+		Unaligned bases: 718 (number of Ns: 0)
+
+CONTIG: k141_169 (556bp)
+		This contig is unaligned. (556 bp)
+		Unaligned bases: 556 (number of Ns: 0)
+
+CONTIG: k141_80 (586bp)
+		This contig is unaligned. (586 bp)
+		Unaligned bases: 586 (number of Ns: 0)
+
+CONTIG: k141_315 (565bp)
+		This contig is unaligned. (565 bp)
+		Unaligned bases: 565 (number of Ns: 0)
+
+CONTIG: k141_538 (1398bp)
+		This contig is unaligned. (1398 bp)
+		Unaligned bases: 1398 (number of Ns: 0)
+
+CONTIG: k141_258 (624bp)
+		This contig is unaligned. (624 bp)
+		Unaligned bases: 624 (number of Ns: 0)
+
+CONTIG: k141_109 (542bp)
+Best alignment score: 535.0 (LEN: 542, IDY: 98.71), Total number of alignments: 1
+		One align captures most of this contig: 115664 116205 | 1 542 | 542 542 | 98.71 | Methanocaldococcus_jannaschii_NC_000909.1 k141_109
+
+CONTIG: k141_170 (623bp)
+		This contig is unaligned. (623 bp)
+		Unaligned bases: 623 (number of Ns: 0)
+
+CONTIG: k141_285 (609bp)
+		This contig is unaligned. (609 bp)
+		Unaligned bases: 609 (number of Ns: 0)
+
+CONTIG: k141_521 (502bp)
+		This contig is unaligned. (502 bp)
+		Unaligned bases: 502 (number of Ns: 0)
+
+CONTIG: k141_376 (675bp)
+		This contig is unaligned. (675 bp)
+		Unaligned bases: 675 (number of Ns: 0)
+
+CONTIG: k141_539 (778bp)
+Best alignment score: 720.0 (LEN: 740, IDY: 97.30), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 655831 655979 | 715 567 | 149 149 | 98.66 | Chlorobium_limicola_DSM_245_NC_010803.1 k141_539
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using all alignments in these sets (option --ambiguity-usage is set to "all"):
+			The very best set is shown in details below, the rest are:
+				Group #2. Score: 720.0, number of alignments: 1, unaligned bases: 38
+				Group #3. Score: 719.0, number of alignments: 1, unaligned bases: 39
+				Group #4. Score: 719.0, number of alignments: 1, unaligned bases: 39
+				Group #5. Score: 717.1, number of alignments: 1, unaligned bases: 39
+			List of alignments used in the sets above but not in the best set (if any):
+		Alignment: 1026934 1027672 | 744 6 | 739 739 | 97.29 | Chlorobium_limicola_DSM_245_NC_010803.1 k141_539
+		Alignment: 2048536 2049274 | 744 6 | 739 739 | 97.29 | Chlorobium_limicola_DSM_245_NC_010803.1 k141_539
+		Alignment: 2319562 2320301 | 6 744 | 740 739 | 97.03 | Chlorobium_limicola_DSM_245_NC_010803.1 k141_539
+		Alignment: 127799 128538 | 6 745 | 740 740 | 97.3 | Chlorobium_limicola_DSM_245_NC_010803.1 k141_539
+			The best set is below. Score: 720.0, number of alignments: 1, unaligned bases: 38
+		Alignment: 788989 789728 | 745 6 | 740 740 | 97.3 | Chlorobium_limicola_DSM_245_NC_010803.1 k141_539
+
+CONTIG: k141_316 (850bp)
+		This contig is unaligned. (850 bp)
+		Unaligned bases: 850 (number of Ns: 0)
+
+CONTIG: k141_110 (593bp)
+Best alignment score: 576.5 (LEN: 593, IDY: 97.21), Total number of alignments: 1
+		One align captures most of this contig: 1416885 1417494 | 593 1 | 610 593 | 97.21 | Methanocaldococcus_jannaschii_NC_000909.1 k141_110
+
+CONTIG: k141_260 (600bp)
+		This contig is unaligned. (600 bp)
+		Unaligned bases: 600 (number of Ns: 0)
+
+CONTIG: k141_142 (973bp)
+		This contig is unaligned. (973 bp)
+		Unaligned bases: 973 (number of Ns: 0)
+
+CONTIG: k141_201 (819bp)
+		This contig is unaligned. (819 bp)
+		Unaligned bases: 819 (number of Ns: 0)
+
+CONTIG: k141_85 (568bp)
+		This contig is unaligned. (568 bp)
+		Unaligned bases: 568 (number of Ns: 0)
+
+CONTIG: k141_225 (594bp)
+		This contig is unaligned. (594 bp)
+		Unaligned bases: 594 (number of Ns: 0)
+
+CONTIG: k141_143 (526bp)
+		This contig is unaligned. (526 bp)
+		Unaligned bases: 526 (number of Ns: 0)
+
+CONTIG: k141_173 (1162bp)
+		This contig is unaligned. (1162 bp)
+		Unaligned bases: 1162 (number of Ns: 0)
+
+CONTIG: k141_487 (830bp)
+		This contig is unaligned. (830 bp)
+		Unaligned bases: 830 (number of Ns: 0)
+
+CONTIG: k141_544 (802bp)
+		This contig is unaligned. (802 bp)
+		Unaligned bases: 802 (number of Ns: 0)
+
+CONTIG: k141_230 (568bp)
+		This contig is unaligned. (568 bp)
+		Unaligned bases: 568 (number of Ns: 0)
+
+Analyzing coverage...
+Writing SNPs into /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/combined_reference/contigs_reports/minimap_output/raw/final-contigs.used_snps
+
+Analysis is finished!
+Founded SNPs were written into /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/combined_reference/contigs_reports/minimap_output/raw/final-contigs.used_snps
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 1
+		Relocations: 0
+		Translocations: 0
+		Interspecies translocations: 0
+		Inversions: 1
+	Potentially Misassembled Contigs (i/s translocations): 0
+		Possible Misassemblies: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 1
+	Misassembled Contig Bases: 570
+	Misassemblies Inter-Contig Overlap ("Extra" Aligned Bases): 0
+Unaligned Contigs: 120 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Bases in Fully and Partially Unaligned Contigs: 81997
+
+Ambiguously Mapped Contigs: 2
+Total Bases in Ambiguously Mapped Contigs: 1348
+"Extra" Aligned Bases in Ambiguously Mapped Contigs: 3543
+Note that --allow-ambiguity option was set to "all" and each of these contigs was used several times (there are "extra" aligned bases).
+
+	Covered Bases in Reference: 11369
+	Raw Aligned Bases in Assembly: 7891
+	Total Aligned Bases in Assembly (with "Extras"): 11434
+
+	SNPs: 179
+	Insertions: 15
+	Deletions: 34
+

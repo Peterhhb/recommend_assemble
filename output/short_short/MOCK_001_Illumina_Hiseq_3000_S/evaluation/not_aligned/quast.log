@@ -1,0 +1,47 @@
+/home/peter/miniconda3/envs/plasme/lib/python3.9/site-packages/quast-5.3.0-py3.9.egg/EGG-INFO/scripts/quast.py --min-identity 90.0 --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 -t 5 /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/quast_corrected_input/final-contigs_not_aligned_anywhere.fasta -o /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned --labels final.contigs
+
+Started: 2025-04-08 12:51:54
+
+Logging to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned/quast.log
+
+CWD: /home/peter/PycharmProjects/pythonProject/recommend_assemble/scripts
+Main parameters: 
+  MODE: meta, threads: 5, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/quast_corrected_input/final-contigs_not_aligned_anywhere.fasta ==> final.contigs
+
+2025-04-08 12:51:54
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 625, L50 = 47, auN = 779.6, Total length = 81997, GC % = 42.76, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2025-04-08 12:51:54
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2025-04-08 12:51:54
+RESULTS:
+  Text versions of total report are saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned/report.html
+  PDF version (tables and plots) is saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned/report.pdf
+  Icarus (contig browser) is saved to /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/not_aligned/icarus.html

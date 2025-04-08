@@ -1,0 +1,56 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Chlorobium_limicola_DSM_245_NC_010803.1]
+	Total Regions: 1
+	Total Region Length: 2763181
+Analyzing contigs...
+CONTIG: k141_539 (778bp)
+Best alignment score: 720.0 (LEN: 740, IDY: 97.30), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1026934 1027672 | 744 6 | 739 739 | 97.29 | Chlorobium_limicola_DSM_245_NC_010803.1 k141_539
+		Skipping redundant alignment 2048536 2049274 | 744 6 | 739 739 | 97.29 | Chlorobium_limicola_DSM_245_NC_010803.1 k141_539
+		Skipping redundant alignment 2319562 2320301 | 6 744 | 740 739 | 97.03 | Chlorobium_limicola_DSM_245_NC_010803.1 k141_539
+		Skipping redundant alignment 127799 128538 | 6 745 | 740 740 | 97.3 | Chlorobium_limicola_DSM_245_NC_010803.1 k141_539
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 720.0, number of alignments: 1, unaligned bases: 38
+		Alignment: 788989 789728 | 745 6 | 740 740 | 97.3 | Chlorobium_limicola_DSM_245_NC_010803.1 k141_539
+
+Analyzing coverage...
+Writing SNPs into /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/runs_per_reference/Chlorobium_limicola_DSM_245/contigs_reports/minimap_output/final-contigs.used_snps
+
+Analysis is finished!
+Founded SNPs were written into /home/peter/PycharmProjects/pythonProject/recommend_assemble/output/short_short/MOCK_001_Illumina_Hiseq_3000_S/evaluation/runs_per_reference/Chlorobium_limicola_DSM_245/contigs_reports/minimap_output/final-contigs.used_snps
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap ("Extra" Aligned Bases): 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Bases in Fully and Partially Unaligned Contigs: 0
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 778
+"Extra" Aligned Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used (there is no "extra" aligned bases).
+
+	Covered Bases in Reference: 740
+	Raw Aligned Bases in Assembly: 740
+	Total Aligned Bases in Assembly (with "Extras"): 740
+
+	SNPs: 20
+	Insertions: 0
+	Deletions: 0
+

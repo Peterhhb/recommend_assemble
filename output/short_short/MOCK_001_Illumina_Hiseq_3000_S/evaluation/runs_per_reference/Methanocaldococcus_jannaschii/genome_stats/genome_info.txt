@@ -1,0 +1,16 @@
+reference chromosomes:
+	Methanocaldococcus_jannaschii_NC_000909.1 (total length: 1664970 bp, total length without N's: 1664967 bp, maximal covered length: 6608 bp)
+	Methanocaldococcus_jannaschii_NC_001732.1 (total length: 58407 bp, total length without N's: 58406 bp, maximal covered length: 519 bp)
+	Methanocaldococcus_jannaschii_NC_001733.1 (total length: 16550 bp, total length without N's: 16550 bp, maximal covered length: 0 bp)
+
+total genome size: 1739927
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Methano | 0.410     | 1.003       | 19        | -         | -         | -         | -         |

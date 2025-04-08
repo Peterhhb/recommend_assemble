@@ -1,0 +1,2 @@
+##gff-version 3
+k141_414	QUAST	possible_assembly_error	104	105	.	.	.	Name=Extensive misassembly;type=inversion

@@ -1,0 +1,27 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+463	981	1	519	Methanocaldococcus_jannaschii_NC_001732.1	k141_295	99.81		True
+CONTIG	k141_295	519	correct
+440010	440625	616	1	Methanocaldococcus_jannaschii_NC_000909.1	k141_441	100.0		True
+CONTIG	k141_441	616	correct
+1262219	1262960	1	742	Methanocaldococcus_jannaschii_NC_000909.1	k141_211	100.0		True
+CONTIG	k141_211	742	correct
+330849	331430	1	582	Methanocaldococcus_jannaschii_NC_000909.1	k141_70	100.0		True
+CONTIG	k141_70	582	correct
+640090	640193	1	104	Methanocaldococcus_jannaschii_NC_000909.1	k141_414	99.17		True
+inversion
+639665	640131	570	105	Methanocaldococcus_jannaschii_NC_000909.1	k141_414	91.22		True
+CONTIG	k141_414	570	misassembled
+1365304	1365928	1	625	Methanocaldococcus_jannaschii_NC_000909.1	k141_249	100.0		True
+CONTIG	k141_249	625	correct
+973925	974549	1	625	Methanocaldococcus_jannaschii_NC_000909.1	k141_133	100.0		True
+CONTIG	k141_133	625	correct
+236073	236583	1	511	Methanocaldococcus_jannaschii_NC_000909.1	k141_536	100.0		True
+CONTIG	k141_536	511	correct
+417624	418267	1	644	Methanocaldococcus_jannaschii_NC_000909.1	k141_371	99.84		True
+CONTIG	k141_371	644	correct
+608759	609340	582	1	Methanocaldococcus_jannaschii_NC_000909.1	k141_257	99.83		True
+CONTIG	k141_257	582	correct
+115664	116205	1	542	Methanocaldococcus_jannaschii_NC_000909.1	k141_109	98.71		True
+CONTIG	k141_109	542	correct
+1416885	1417494	593	1	Methanocaldococcus_jannaschii_NC_000909.1	k141_110	97.21		True
+CONTIG	k141_110	593	correct
